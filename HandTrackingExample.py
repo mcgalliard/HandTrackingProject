@@ -1,3 +1,4 @@
+#first open cv test project from tutorials
 import cv2
 import mediapipe as mp
 import time
